@@ -64,6 +64,9 @@ form {
   margin-top: 60px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  
 
   legend {
     padding-left: 40px;
@@ -80,7 +83,7 @@ form {
   }
 
   input {
-    width: 100px;
+    
   }
 }
 
@@ -96,4 +99,9 @@ form {
     padding: 3px 8px;
     margin-top: 16px;
   }
+}
+
+.Container{
+  margin-left:36.5%;
+  
 }
